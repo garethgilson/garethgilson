@@ -1,0 +1,21 @@
+---
+layout: layout.njk
+title: Now
+tags: nav
+---
+
+<h1>What I'm Working On Now</h1>
+<div class="row">
+    {% for item in collections.project %}
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">{{ item.data.title }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ item.data.languages }}</h6>
+                    <p class="card-text">{{ item.data.description }}</p>
+                    {{ item.templateContent|safe }}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
