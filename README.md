@@ -1,3 +1,3 @@
 # Gareth Gilson
 
-This repo is the repo for my website at https://GarethGilson.com. The website is made with eleventy and powered by Cloudflare Pages.
+Hello, my name is Gareth, I'm an amateur developer from Victoria, BC, Canada. You can read more and see what I'm working on at https://GarethGilson.com.
