@@ -81,5 +81,5 @@ At this point you can optionally disconnect the external monitor and keyboard an
 ## Set up Emby
 1. Get the link for the **armhf** version of the Emby server from [the website](https://emby.media/linux-server.html)
 2. Use `wget https://github.com/MediaBrowser/Emby.Releases/releases/download/4.6.7.0/emby-server-deb_4.6.7.0_armhf.deb` to download the package
-3. Run `dpkg -i emby-server-deb_4.6.7.0_armhf.deb` to install Emby
+3. Run `sudo dpkg -i emby-server-deb_4.6.7.0_armhf.deb` to install Emby
 4. Go to `http://HOSTNAME:8096` to configure the server using their setup wizard
