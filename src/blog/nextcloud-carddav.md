@@ -2,6 +2,7 @@
 layout: layout.njk
 title: Cloud Address Book with Nextcloud (CardDAV)
 tags: blog
+date: 2022-01-07
 ---
 # Setting Up a Cloud Address Book with CardDAV and Nextcloud
 

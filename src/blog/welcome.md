@@ -2,6 +2,7 @@
 layout: layout.njk
 title: Welcome
 tags: blog
+date: 2022-01-01
 ---
 # Welcome
 

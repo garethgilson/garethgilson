@@ -2,6 +2,7 @@
 layout: layout.njk
 title: The Productivity Problem
 tags: blog
+date: 2022-01-13
 ---
 # The Productivity Problem
 

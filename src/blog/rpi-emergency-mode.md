@@ -5,6 +5,7 @@ tags:
     - blog
     - technical
     - rpi
+date: 2022-01-03
 ---
 # Fixing Raspberry Pi in Emergency Mode due to FSTab Misconfiguration
 

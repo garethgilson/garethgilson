@@ -1,10 +1,11 @@
 ---
 layout: layout.njk
 title: RPI File and Media Server
-tags: 
+tags:
     - blog
     - technical
     - rpi
+date: 2022-01-02
 ---
 
 # Configuring a Raspberry Pi as a File and Media Server
